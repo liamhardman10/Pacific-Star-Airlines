@@ -1,12 +1,10 @@
 <br />
 <div align="center">
 	<a href="https://github.com/liamhardman10/Pacific-Star-Airlines">
-		<img src="assets/psaFinalLogo.svg" alt="logo" width="75" height="75">
+		<img src="\src\assets\psaFinalLogo.svg" alt="logo" width="75" height="75">
 	</a>
-
-	<h3 align="center">Pacific Star Airlines</h3>
-
-	<p align="center">Connecting the Western US like never before</p>
+	<h1 align="center">Pacific Star Airlines</h1>
+	<p align="center"><strong><em>Connecting the Western US like never before</em></strong></p>
 </div>
 
 ## Learn more below
