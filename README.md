@@ -1,6 +1,13 @@
-# Pacific Star Airlines
-   
-**Connecting the Western US like never before.**
+<br />
+<div align="center">
+	<a href="https://github.com/liamhardman10/Pacific-Star-Airlines">
+		<img src="assets/psaFinalLogo.svg" alt="logo" width="75" height="75">
+	</a>
+
+	<h3 align="center">Pacific Star Airlines</h3>
+
+	<p align="center">Connecting the Western US like never before</p>
+</div>
 
 ## Learn more below
 
@@ -8,8 +15,9 @@
 
 ## Authors
 
-[Liam Hardman](https://www.linkedin.com/in/liamhardman0/)  
-[@lxmhdmn](https://x.com/lxmhdmn)
+All code and logos created by Liam Hardman.
+[My LinkedIn](https://www.linkedin.com/in/liamhardman0/)  
+[My Twitter](https://x.com/lxmhdmn)
 
 ## License
 
