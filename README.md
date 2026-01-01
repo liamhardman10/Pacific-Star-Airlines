@@ -1,4 +1,3 @@
-<br />
 <div align="center">
 	<a href="https://github.com/liamhardman10/Pacific-Star-Airlines">
 		<img src="https://github.com/liamhardman10/Pacific-Star-Airlines/blob/master/psa-frontend/src/assets/psaFinalLogo.svg" alt="PSA" width="400px" height="400px">
@@ -7,13 +6,13 @@
 	<p align="center"><strong><em>Connecting the Western US like never before</em></strong></p>
 </div>
 
-## Learn more below
+## Disclaimer
 
-***(This is a work of fiction. While the site is fully functional, there is no actual airline named Pacific Star Airlines and all bookings are purely for the display of fiction.)***
+***(This is a work of fiction. While the site is fully functional, there is no actual airline named Pacific Star Airlines and all actions taken on the site are purely fictional display.)***
 
 ## Authors
 
-All code and logos created by Liam Hardman.
+The code and logos in this repository were designed by Liam Hardman.
 
 [My LinkedIn](https://www.linkedin.com/in/liamhardman0/)  
 [My Twitter](https://x.com/lxmhdmn)
