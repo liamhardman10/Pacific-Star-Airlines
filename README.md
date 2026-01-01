@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 	<a href="https://github.com/liamhardman10/Pacific-Star-Airlines">
-		<img src="\src\assets\psaFinalLogo.svg" alt="logo" width="75" height="75">
+		<img src="https://github.com/liamhardman10/Pacific-Star-Airlines/blob/master/psa-frontend/src/assets/psaFinalLogo.svg" alt="PSA" width="400px" height="400px">
 	</a>
 	<h1 align="center">Pacific Star Airlines</h1>
 	<p align="center"><strong><em>Connecting the Western US like never before</em></strong></p>
@@ -14,6 +14,7 @@
 ## Authors
 
 All code and logos created by Liam Hardman.
+
 [My LinkedIn](https://www.linkedin.com/in/liamhardman0/)  
 [My Twitter](https://x.com/lxmhdmn)
 
