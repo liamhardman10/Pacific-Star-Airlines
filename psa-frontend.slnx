@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="psa-frontend.esproj">
-    <Build />
-    <Deploy />
-  </Project>
-</Solution>
